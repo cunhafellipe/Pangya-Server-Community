@@ -62,8 +62,6 @@ Se este projeto te ajudou, considere fazer uma doação para manter o desenvolvi
 
 <div align="center">
 
-[![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-Pix%20%2F%20Cart%C3%A3o-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://link.mercadopago.com.br/gameraze)
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![PayPal](https://img.shields.io/badge/PayPal-Apoiar%20Projeto-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=8QDX3E6W458FL&currency_code=BRL&item_name=Apoio+PangYa+Fun)
 
 </div>
